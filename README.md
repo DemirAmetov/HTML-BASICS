@@ -18,5 +18,5 @@ The basic syntax for HTML
       <p><a href="#">See how to travel</a></p>		      #This is a paragraph
       <p>Rent from people in over 34,000 cities</p>	    #This is a paragraph
     </div>                                              #Close Class
-  </body>
-</html>
+  </body>                                               #This is standard
+</html>                                                 #This is standard
