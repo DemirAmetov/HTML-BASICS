@@ -4,7 +4,9 @@ The basic syntax for HTML
 !DOCTYPE html>                                          #This is standard
 <html>                                                  #This is standard
   <head>                                                #This is standard 
-    <link rel="stylesheet" href="main.css">             #This is done to link the html to the css file with name "main".
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet"> #Imports shift.css
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"> #Imports bootstrap.css
+    <link rel="stylesheet" href="main.css">             #This is done to link the html to the css file with name "main". This overides any css above it.
   </head>                                               #This is standard 
   
   <body>                                                #This is standard (Everything is written in between the body tag)
